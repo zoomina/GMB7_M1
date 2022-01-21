@@ -42,6 +42,30 @@
 
 <br>
 
+#### kopis_theater_daily.py  
+
+: 서울지역 공연시설에 한하여 설정된 기간 내 일별 관객 수 추출  
+
+1. Requirements
+
+```
+requests
+pandas
+datetime
+xml.etree.ElementTree
+```
+
+2. config
+
+```
+service : kopis open api key
+stdate : start date / type = datetime.date
+eddate : end date / type = datetime.date
+place : 공연시설명 / type = str  # 공통코드 참고
+```
+
+<br>
+
 ## 3. 정성조사 기획안
 
 <br>
