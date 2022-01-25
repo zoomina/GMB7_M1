@@ -97,3 +97,19 @@ https://pypi.org/project/Scweet/
 - 트위터에서 '쇼노트', '쇼놋' 키워드로 크롤링을 진행
 - 형용사 어간 추출하여 고객이 가지고 있는 브랜드에 대한 이미지 파악
 - 경쟁사에 대한 분석도 함께 진행(EMK-엠개 / OD-진행x / 신시컴퍼니-신시 / S&CO-설컴 / 씨뮤-진행x)
+
+<br>
+
+## 4. 분석 결과
+
+<br>
+
+### 1) Tableau를 이용한 시각화
+
+https://public.tableau.com/views/kopis_cnt/1_1?:language=ko-KR&publish=yes&:display_count=n&:origin=viz_share_link  
+
+<br>
+
+### 2) 분석 보고서
+
+https://www.notion.so/M1-ed13c8d3e36a496cb2748e0c76dde861
